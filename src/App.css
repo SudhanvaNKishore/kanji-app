@@ -303,18 +303,130 @@ main {
 
 /* Responsive design for smaller screens */
 @media (max-width: 768px) {
+  /* Header improvements */
+  .header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    width: 90%; /* Reduced from 100% */
+    margin: 0 auto;
+    gap: 8px;
+  }
+
+  .header-container h1 {
+    font-size: 0.95rem;
+    margin: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .home-button, .dark-mode-toggle {
+    position: static;
+    padding: 8px 10px;
+    font-size: 13px;
+    min-width: 75px;
+    margin: 0;
+    white-space: nowrap;
+  }
+
+  .dark-mode-toggle {
+    min-width: 75px;
+  }
+
+  /* Remove absolute positioning */
+  .home-button, .dark-mode-toggle {
+    position: static !important;
+  }
+
+  /* Remove the header-buttons div wrapper */
+  .header-buttons {
+    display: contents;
+  }
+
+  /* Level buttons adjustments */
+  .level-buttons {
+    margin-top: 15px;
+  }
+
+  /* Make buttons container */
+  .header-buttons {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 10px;
+  }
+
+  /* Adjust kanji grid to 3 columns */
+  .kanji-grid {
+    grid-template-columns: repeat(3, 1fr); /* Force 3 columns */
+    gap: 8px;
+    padding: 10px;
+  }
+
+  .kanji-item {
+    padding: 12px 8px;
+    font-size: 24px; /* Slightly larger font for better visibility */
+  }
+
+  /* Level buttons improvements */
+  .level-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 8px;
+    padding: 0 10px;
+  }
+
+  .level-buttons button {
+    margin: 3px;
+    padding: 8px 15px;
+    font-size: 14px;
+    min-width: 100px;
+  }
+
+  /* Welcome section improvements */
+  .welcome-section {
+    padding: 10px;
+  }
+
+  .instruction-text {
+    font-size: 1rem;
+    padding: 0 15px;
+    margin: 15px 0;
+  }
+
   .content-container {
     flex-direction: column;
     text-align: center;
+    gap: 20px;
   }
-  
-  .main-image {
-    max-width: 100%;
-    margin-bottom: 20px;
+
+  .kanji-showcase {
+    width: 200px;  /* Smaller width for mobile */
+    height: 150px; /* Smaller height for mobile */
+    margin: 0 auto;
   }
-  
+
+  .kanji-showcase span {
+    font-size: 60px;  /* Smaller font size for mobile */
+  }
+
   .kanji-description {
-    text-align: center;
+    text-align: left;
+    padding: 0 15px;
+  }
+
+  .kanji-description p {
+    font-size: 0.95rem;
+    margin: 12px 0;
+  }
+
+  /* Footer adjustments */
+  .footer {
+    padding: 15px;
+    font-size: 0.8rem;
   }
 }
 
