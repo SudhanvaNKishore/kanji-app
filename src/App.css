@@ -51,6 +51,7 @@ main {
   text-align: center;
   cursor: pointer;
   transition: transform 0.2s;
+  position: relative;
 }
 
 .kanji-item:hover {
@@ -87,4 +88,165 @@ main {
 .App-header h1 {
   margin: 0 auto;
   padding: 20px 0;
+}
+
+/* Add these dark mode styles */
+.App.dark-mode {
+  background-color: #1a1a1a;
+  color: #ffffff;
+}
+
+.dark-mode .header {
+  background-color: #000000;
+}
+
+.dark-mode .level-buttons button {
+  background-color: #333333;
+  color: #ffffff;
+}
+
+.dark-mode .level-buttons button:hover {
+  background-color: #444444;
+}
+
+.dark-mode .kanji-item {
+  background: #333333;
+  color: #ffffff;
+}
+
+.dark-mode .kanji-item:hover {
+  background: #444444;
+}
+
+.dark-mode .home-button {
+  background-color: #333333;
+  color: #ffffff;
+}
+
+.dark-mode .home-button:hover {
+  background-color: #444444;
+}
+
+/* Add styles for the dark mode toggle button */
+.dark-mode-toggle {
+  position: absolute;
+  right: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  background-color: #282c34;
+  color: white;
+  transition: background-color 0.3s ease;
+}
+
+.dark-mode-toggle:hover {
+  background-color: #3c4048;
+}
+
+.dark-mode .dark-mode-toggle {
+  background-color: #333333;
+}
+
+.dark-mode .dark-mode-toggle:hover {
+  background-color: #444444;
+}
+
+/* Popup styles */
+.kanji-popup {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.kanji-popup-content {
+  background: white;
+  padding: 2rem;
+  border-radius: 8px;
+  position: relative;
+  width: 80%;
+  max-width: 500px;
+}
+
+/* Dark mode popup styles */
+.dark-mode .kanji-popup-content {
+  background-color: #1a1a1a !important;
+}
+
+.dark-mode .kanji-popup-content > * {
+  color: white !important;
+}
+
+/* Style for labels in popup */
+.dark-mode .kanji-popup-content label,
+.dark-mode .kanji-popup-content span {
+  color: white !important;
+}
+
+/* Style for the kanji character */
+.dark-mode .kanji-popup-content .kanji-character {
+  color: white !important;
+  font-size: 4rem;
+}
+
+/* Style for the close button */
+.dark-mode .kanji-popup-content .close-button {
+  background-color: #444444;
+  color: white;
+}
+
+/* Kanji details styling */
+.kanji-character {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.dark-mode .kanji-character {
+  color: white;
+}
+
+.kanji-details {
+  text-align: left;
+  margin-top: 1rem;
+}
+
+.dark-mode .kanji-details {
+  color: white;
+}
+
+/* Style the labels and values in dark mode */
+.dark-mode .kanji-details dt {
+  color: #888888; /* Light gray for labels */
+  margin-bottom: 0.5rem;
+}
+
+.dark-mode .kanji-details dd {
+  color: white; /* White for the actual values */
+  margin-bottom: 1rem;
+  margin-left: 1rem;
+}
+
+.dark-mode .kanji-character {
+  color: white;
+  font-size: 4rem;
+  margin-bottom: 2rem;
+}
+
+.instruction-text {
+  margin-top: 20px;
+  font-size: 1.2rem;
+  color: #666;
+  font-style: italic;
+}
+
+.dark-mode .instruction-text {
+  color: #aaa;
 }

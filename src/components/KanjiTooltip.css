@@ -1,0 +1,32 @@
+.kanji-tooltip {
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: rgba(0, 0, 0, 0.8);
+  color: white;
+  padding: 6px 10px;
+  border-radius: 4px;
+  font-size: 13px;
+  white-space: nowrap;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.2s;
+  z-index: 1000;
+  width: max-content;
+  max-width: 200px;
+  margin-bottom: 5px;
+}
+
+.kanji-item:hover .kanji-tooltip {
+  opacity: 1;
+}
+
+.dark-mode .kanji-tooltip {
+  background-color: rgba(40, 40, 40, 0.95);
+  border: 1px solid #444;
+}
+
+.tooltip-meaning {
+  font-weight: normal;
+} 

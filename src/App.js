@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import KanjiList from "./components/KanjiList";
 import KanjiPopup from "./components/KanjiPopup";
 import n5Kanjis from "./components/data/jlpt_n5.json";
@@ -11,6 +11,10 @@ import "./App.css";
 function App() {
   const [selectedLevel, setSelectedLevel] = useState(null);
   const [selectedKanji, setSelectedKanji] = useState(null);
+  const [darkMode, setDarkMode] = useState(() => {
+    const savedMode = localStorage.getItem('darkMode');
+    return savedMode ? JSON.parse(savedMode) : false;
+  });
 
   const handleLevelClick = (level) => {
     setSelectedLevel(level);
@@ -63,14 +67,33 @@ function App() {
     }
   };
 
+  const toggleDarkMode = () => {
+    setDarkMode(prevMode => {
+      const newMode = !prevMode;
+      localStorage.setItem('darkMode', JSON.stringify(newMode));
+      return newMode;
+    });
+  };
+
+  useEffect(() => {
+    if (darkMode) {
+      document.body.classList.add('dark-mode');
+    } else {
+      document.body.classList.remove('dark-mode');
+    }
+  }, [darkMode]);
+
   return (
-    <div className="App">
+    <div className={`App ${darkMode ? 'dark-mode' : ''}`}>
       <header className="App-header">
         <div className="header-container">
           <button className="home-button" onClick={handleHomeClick}>
             Home
           </button>
           <h1>Kanjis</h1>
+          <button className="dark-mode-toggle" onClick={toggleDarkMode}>
+            {darkMode ? '☀️ Light' : '🌙 Dark'}
+          </button>
         </div>
         <div className="level-buttons">
           <button onClick={() => handleLevelClick("N5")}>N5 Level</button>
@@ -79,6 +102,11 @@ function App() {
           <button onClick={() => handleLevelClick("N2")}>N2 Level</button>
           <button onClick={() => handleLevelClick("N1")}>N1 Level</button>
         </div>
+        {!selectedLevel && (
+          <p className="instruction-text">
+            Select your JLPT level to explore the kanji characters ✨
+          </p>
+        )}
       </header>
       <main>
         {selectedLevel && (
