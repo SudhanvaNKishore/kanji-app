@@ -90,7 +90,7 @@ function App() {
           <button className="home-button" onClick={handleHomeClick}>
             Home
           </button>
-          <h1>Kanjis</h1>
+          <h1>勉強しましょう</h1>
           <button className="dark-mode-toggle" onClick={toggleDarkMode}>
             {darkMode ? '☀️ Light' : '🌙 Dark'}
           </button>
@@ -103,9 +103,27 @@ function App() {
           <button onClick={() => handleLevelClick("N1")}>N1 Level</button>
         </div>
         {!selectedLevel && (
-          <p className="instruction-text">
-            Select your JLPT level to explore the kanji characters ✨
-          </p>
+          <div className="welcome-section">
+            <p className="instruction-text">
+              Select your JLPT level to explore the kanji characters ✨
+            </p>
+            <div className="content-container">
+              <div className="kanji-showcase">
+                <span>漢字</span>
+              </div>
+              <div className="kanji-description">
+                <p>
+                  Kanji (漢字) are Chinese characters used in the Japanese writing system. 
+                  They are one of the three scripts used in Japanese, alongside hiragana and katakana. 
+                  Each kanji character represents a meaning and can have multiple readings depending on the context.
+                </p>
+                <p>
+                  The Japanese Language Proficiency Test (JLPT) categorizes kanji into different levels, 
+                  from N5 (basic) to N1 (advanced). Start your kanji learning journey by selecting a level above!
+                </p>
+              </div>
+            </div>
+          </div>
         )}
       </header>
       <main>
@@ -124,6 +142,11 @@ function App() {
           />
         )}
       </main>
+      {!selectedLevel && (
+        <footer className="footer">
+          <p>Copyright © 2025 Sudhanva N Kishore</p>
+        </footer>
+      )}
     </div>
   );
 }
