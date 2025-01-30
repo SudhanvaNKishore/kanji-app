@@ -28,9 +28,17 @@
         "wk_readings_kun": [
             "!ひと"
         ],
+
+        
+
+
         "wk_radicals": [
             "Ground"
-        ]
+        ],
+        "examples": ["一つ : ひとつ - One", "一日 : いちにち - One day"]
+
+        
+
     },
     "二": {
         "strokes": 2,
@@ -63,7 +71,8 @@
         ],
         "wk_radicals": [
             "Two"
-        ]
+        ],
+        "examples": ["二つ : ふたつ - Two", "二日 : ふつか - Second day of the month"]
     },
     "九": {
         "strokes": 2,
@@ -95,7 +104,8 @@
         ],
         "wk_radicals": [
             "Nine"
-        ]
+        ],
+        "examples": ["九つ : ここのつ - Nine", "九月 : くがつ - September"]
     },
     "七": {
         "strokes": 2,
@@ -127,7 +137,8 @@
         ],
         "wk_radicals": [
             "Seven"
-        ]
+        ],
+        "examples": ["七つ : ななつ - Seven", "七月 : しちがつ - July"]
     },
     "人": {
         "strokes": 2,
@@ -161,7 +172,8 @@
         ],
         "wk_radicals": [
             "Person"
-        ]
+        ],
+        "examples": ["日本人 : にほんじん - Japanese person", "三人 : さんにん - Three people"]
     },
     "入": {
         "strokes": 2,
@@ -198,7 +210,8 @@
         ],
         "wk_radicals": [
             "Enter"
-        ]
+        ],
+        "examples": ["入口 : いりぐち - Entrance", "入れる : いれる - To put in"]
     },
     "八": {
         "strokes": 2,
@@ -232,7 +245,8 @@
         ],
         "wk_radicals": [
             "Fins"
-        ]
+        ],
+        "examples": ["八つ : やっつ - Eight", "八月 : はちがつ - August"]
     },
     "十": {
         "strokes": 2,
@@ -264,7 +278,8 @@
         ],
         "wk_radicals": [
             "Cross"
-        ]
+        ],
+        "examples": ["十分 : じゅうぶん - Enough", "十日 : とおか - Tenth day of the month"]
     },
     "三": {
         "strokes": 3,
@@ -297,7 +312,8 @@
         "wk_radicals": [
             "Ground",
             "Two"
-        ]
+        ],
+        "examples": ["三つ : みっつ - Three", "三月 : さんがつ - March"]
     },
     "上": {
         "strokes": 3,
@@ -350,7 +366,8 @@
         "wk_radicals": [
             "Toe",
             "Ground"
-        ]
+        ],
+        "examples": ["上手 : じょうず - Skilled", "上がる : あがる - To rise"]
     },
     "下": {
         "strokes": 3,
@@ -404,7 +421,8 @@
         "wk_radicals": [
             "Ground",
             "Toe"
-        ]
+        ],
+        "examples": ["地下 : ちか - Underground", "下がる : さがる - To go down"]
     },
     "大": {
         "strokes": 3,
@@ -439,7 +457,8 @@
         ],
         "wk_radicals": [
             "Big"
-        ]
+        ],
+        "examples": ["大きい : おおきい - Big", "大学 : だいがく - University"]
     },
     "女": {
         "strokes": 3,
@@ -473,7 +492,8 @@
         ],
         "wk_radicals": [
             "Woman"
-        ]
+        ],
+        "examples": ["女性 : じょせい - Woman", "女の子 : おんなのこ - Girl"]
     },
     "山": {
         "strokes": 3,
@@ -503,7 +523,8 @@
         ],
         "wk_radicals": [
             "Mountain"
-        ]
+        ],
+        "examples": ["山川 : やまかわ - Mountain and river", "富士山 : ふじさん - Mount Fuji"]
     },
     "川": {
         "strokes": 3,
@@ -534,7 +555,8 @@
         ],
         "wk_radicals": [
             "River"
-        ]
+        ],
+        "examples": ["川辺 : かわべ - Riverside", "川魚 : かわざかな - River fish"]
     },
     "土": {
         "strokes": 3,
@@ -571,7 +593,8 @@
         ],
         "wk_radicals": [
             "Dirt"
-        ]
+        ],
+        "examples": ["土曜日 : どようび - Saturday", "土産 : みやげ - Souvenir"]
     },
     "千": {
         "strokes": 3,
@@ -600,7 +623,8 @@
         ],
         "wk_radicals": [
             "Thousand"
-        ]
+        ],
+        "examples": ["千円 : せんえん - Thousand yen", "千人 : せんにん - Thousand people"]
     },
     "子": {
         "strokes": 3,
@@ -638,7 +662,8 @@
         ],
         "wk_radicals": [
             "Child"
-        ]
+        ],
+        "examples": ["子ども : こども - Child", "女子 : じょし - Girl"]
     },
     "小": {
         "strokes": 3,
@@ -674,7 +699,8 @@
         ],
         "wk_radicals": [
             "Small"
-        ]
+        ],
+        "examples": ["小さい : ちいさい - Small", "小学生 : しょうがくせい - Elementary school student"]
     },
     "中": {
         "strokes": 4,
@@ -712,7 +738,8 @@
         ],
         "wk_radicals": [
             "Middle"
-        ]
+        ],
+        "examples": ["中国 : ちゅうごく - China", "中学 : ちゅうがく - Middle school"]
     },
     "五": {
         "strokes": 4,
@@ -742,7 +769,8 @@
         ],
         "wk_radicals": [
             "Five"
-        ]
+        ],
+        "examples": ["五つ : いつつ - Five", "五月 : ごがつ - May"]
     },
     "六": {
         "strokes": 4,
@@ -776,7 +804,8 @@
         "wk_radicals": [
             "Lid",
             "Fins"
-        ]
+        ],
+        "examples": ["六つ : むっつ - Six", "六月 : ろくがつ - June"]
     },
     "円": {
         "strokes": 4,
@@ -814,7 +843,8 @@
         "wk_radicals": [
             "Lid",
             "Head"
-        ]
+        ],
+        "examples": ["百円 : ひゃくえん - Hundred yen", "円い : まるい - Round"]
     },
     "天": {
         "strokes": 4,
@@ -847,7 +877,8 @@
         ],
         "wk_radicals": [
             "Heaven"
-        ]
+        ],
+        "examples": ["天気 : てんき - Weather", "天国 : てんごく - Heaven"]
     },
     "日": {
         "strokes": 4,
@@ -886,7 +917,8 @@
         ],
         "wk_radicals": [
             "Sun"
-        ]
+        ],
+        "examples": ["日曜日 : にちようび - Sunday", "日本 : にほん - Japan"]
     },
     "月": {
         "strokes": 4,
@@ -919,7 +951,8 @@
         ],
         "wk_radicals": [
             "Moon"
-        ]
+        ],
+        "examples": ["月曜日 : げつようび - Monday", "一月 : いちがつ - January"]
     },
     "木": {
         "strokes": 4,
@@ -954,7 +987,8 @@
         ],
         "wk_radicals": [
             "Tree"
-        ]
+        ],
+        "examples": ["木曜日 : もくようび - Thursday", "木材 : もくざい - Timber"]
     },
     "水": {
         "strokes": 4,
@@ -984,7 +1018,8 @@
         ],
         "wk_radicals": [
             "Water"
-        ]
+        ],
+        "examples": ["水曜日 : すいようび - Wednesday", "水道 : すいどう - Water supply"]
     },
     "火": {
         "strokes": 4,
@@ -1016,7 +1051,8 @@
         ],
         "wk_radicals": [
             "Fire"
-        ]
+        ],
+        "examples": ["火曜日 : かようび - Tuesday", "火山 : かざん - Volcano"]
     },
     "出": {
         "strokes": 5,
@@ -1057,7 +1093,8 @@
         ],
         "wk_radicals": [
             "Mountain"
-        ]
+        ],
+        "examples": ["出口 : でぐち - Exit", "出発 : しゅっぱつ - Departure"]
     },
     "右": {
         "strokes": 5,
@@ -1089,7 +1126,8 @@
         "wk_radicals": [
             "Narwhal",
             "Mouth"
-        ]
+        ],
+        "examples": ["右手 : みぎて - Right hand", "右側 : みぎがわ - Right side"]
     },
     "四": {
         "strokes": 5,
@@ -1123,7 +1161,8 @@
         "wk_radicals": [
             "Mouth",
             "Legs"
-        ]
+        ],
+        "examples": ["四つ : よっつ - Four", "四月 : しがつ - April"]
     },
     "左": {
         "strokes": 5,
@@ -1154,7 +1193,8 @@
         "wk_radicals": [
             "Narwhal",
             "Construction"
-        ]
+        ],
+        "examples": ["左手 : ひだりて - Left hand", "左側 : ひだりがわ - Left side"]
     },
     "本": {
         "strokes": 5,
@@ -1192,7 +1232,8 @@
         ],
         "wk_radicals": [
             "Book"
-        ]
+        ],
+        "examples": ["日本 : にほん - Japan", "本棚 : ほんだな - Bookshelf"]
     },
     "白": {
         "strokes": 5,
@@ -1225,7 +1266,8 @@
         ],
         "wk_radicals": [
             "White"
-        ]
+        ],
+        "examples": ["白い : しろい - White", "白紙 : はくし - Blank paper"]
     },
     "万": {
         "strokes": 3,
@@ -1256,7 +1298,8 @@
         "wk_radicals": [
             "Leaf",
             "Sword"
-        ]
+        ],
+        "examples": ["一万 : いちまん - Ten thousand", "万歳 : ばんざい - Hurray"]
     },
     "今": {
         "strokes": 4,
@@ -1286,7 +1329,8 @@
         ],
         "wk_radicals": [
             "Now"
-        ]
+        ],
+        "examples": ["今日 : きょう - Today", "今月 : こんげつ - This month"]
     },
     "午": {
         "strokes": 4,
@@ -1317,7 +1361,8 @@
         "wk_radicals": [
             "Slide",
             "Dry"
-        ]
+        ],
+        "examples": ["午前 : ごぜん - Morning", "午後 : ごご - Afternoon"]
     },
     "友": {
         "strokes": 4,
@@ -1347,7 +1392,8 @@
         "wk_radicals": [
             "Narwhal",
             "Stool"
-        ]
+        ],
+        "examples": ["友達 : ともだち - Friend", "友情 : ゆうじょう - Friendship"]
     },
     "父": {
         "strokes": 4,
@@ -1377,7 +1423,8 @@
         ],
         "wk_radicals": [
             "Father"
-        ]
+        ],
+        "examples": ["父親 : ちちおや - Father", "お父さん : おとうさん - Father (respectful)"]
     },
     "北": {
         "strokes": 5,
@@ -1407,7 +1454,8 @@
         "wk_radicals": [
             "Fingers",
             "Spoon"
-        ]
+        ],
+        "examples": ["北 : きた - North", "北海道 : ほっかいどう - Hokkaido"]
     },
     "半": {
         "strokes": 5,
@@ -1441,7 +1489,8 @@
         "wk_radicals": [
             "Triceratops",
             "Dry"
-        ]
+        ],
+        "examples": ["半分 : はんぶん - Half", "七時半 : しちじはん - Half past seven"]
     },
     "外": {
         "strokes": 5,
@@ -1477,7 +1526,8 @@
         "wk_radicals": [
             "Evening",
             "Toe"
-        ]
+        ],
+        "examples": ["外 : そと - Outside", "外国 : がいこく - Foreign country"]
     },
     "母": {
         "strokes": 5,
@@ -1510,7 +1560,8 @@
         "wk_radicals": [
             "Sun",
             "Drop"
-        ]
+        ],
+        "examples": ["母親 : ははおや - Mother", "お母さん : おかあさん - Mother (respectful)"]
     },
     "休": {
         "strokes": 6,
@@ -1545,7 +1596,8 @@
         "wk_radicals": [
             "Leader",
             "Tree"
-        ]
+        ],
+        "examples": ["休む : やすむ - To rest", "休日 : きゅうじつ - Holiday"]
     },
     "先": {
         "strokes": 6,
@@ -1585,7 +1637,8 @@
             "Slide",
             "Dirt",
             "Legs"
-        ]
+        ],
+        "examples": ["先生 : せんせい - Teacher", "先週 : せんしゅう - Last week"]
     },
     "名": {
         "strokes": 6,
@@ -1622,7 +1675,8 @@
         "wk_radicals": [
             "Evening",
             "Mouth"
-        ]
+        ],
+        "examples": ["名前 : なまえ - Name", "有名 : ゆうめい - Famous"]
     },
     "年": {
         "strokes": 6,
@@ -1653,7 +1707,8 @@
         "wk_radicals": [
             "Gun",
             "Cow"
-        ]
+        ],
+        "examples": ["今年 : ことし - This year", "来年 : らいねん - Next year"]
     },
     "気": {
         "strokes": 6,
@@ -1690,7 +1745,8 @@
         "wk_radicals": [
             "Energy",
             "Treasure"
-        ]
+        ],
+        "examples": ["天気 : てんき - Weather", "元気 : げんき - Healthy"]
     },
     "百": {
         "strokes": 6,
@@ -1721,7 +1777,8 @@
         "wk_radicals": [
             "Leaf",
             "Sun"
-        ]
+        ],
+        "examples": ["百円 : ひゃくえん - Hundred yen", "百年 : ひゃくねん - Hundred years"]
     },
     "男": {
         "strokes": 7,
@@ -1753,7 +1810,8 @@
         "wk_radicals": [
             "Rice Paddy",
             "Power"
-        ]
+        ],
+        "examples": ["男の子 : おとこのこ - Boy", "男性 : だんせい - Man"]
     },
     "見": {
         "strokes": 7,
@@ -1790,7 +1848,8 @@
         ],
         "wk_radicals": [
             "See"
-        ]
+        ],
+        "examples": ["見る : みる - To see", "見物 : けんぶつ - Sightseeing"]
     },
     "車": {
         "strokes": 7,
@@ -1819,7 +1878,8 @@
         ],
         "wk_radicals": [
             "Car"
-        ]
+        ],
+        "examples": ["車 : くるま - Car", "電車 : でんしゃ - Train"]
     },
     "毎": {
         "strokes": 6,
@@ -1850,7 +1910,8 @@
         "wk_radicals": [
             "Gun",
             "Window"
-        ]
+        ],
+        "examples": ["毎日 : まいにち - Every day", "毎月 : まいつき - Every month"]
     },
     "行": {
         "strokes": 6,
@@ -1898,7 +1959,8 @@
         ],
         "wk_radicals": [
             "Go"
-        ]
+        ],
+        "examples": ["行く : いく - To go", "旅行 : りょこう - Travel"]
     },
     "西": {
         "strokes": 6,
@@ -1931,7 +1993,8 @@
         ],
         "wk_radicals": [
             "West"
-        ]
+        ],
+        "examples": ["西 : にし - West", "西洋 : せいよう - The West"]
     },
     "何": {
         "strokes": 7,
@@ -1965,7 +2028,8 @@
         "wk_radicals": [
             "Leader",
             "Lip Ring"
-        ]
+        ],
+        "examples": ["何ですか : なんですか - What is it?", "何時 : なんじ - What time?"]
     },
     "来": {
         "strokes": 7,
@@ -2007,7 +2071,8 @@
         "wk_radicals": [
             "Ground",
             "Rice"
-        ]
+        ],
+        "examples": ["来る : くる - To come", "来年 : らいねん - Next year"]
     },
     "学": {
         "strokes": 8,
@@ -2041,7 +2106,8 @@
         "wk_radicals": [
             "Viking",
             "Child"
-        ]
+        ],
+        "examples": ["学生 : がくせい - Student", "学校 : がっこう - School"]
     },
     "金": {
         "strokes": 8,
@@ -2074,7 +2140,8 @@
         ],
         "wk_radicals": [
             "Gold"
-        ]
+        ],
+        "examples": ["お金 : おかね - Money", "金曜日 : きんようび - Friday"]
     },
     "雨": {
         "strokes": 8,
@@ -2106,7 +2173,8 @@
         ],
         "wk_radicals": [
             "Rain"
-        ]
+        ],
+        "examples": ["雨 : あめ - Rain", "雨天 : うてん - Rainy weather"]
     },
     "国": {
         "strokes": 8,
@@ -2137,7 +2205,8 @@
             "Mouth",
             "King",
             "Drop"
-        ]
+        ],
+        "examples": ["国 : くに - Country", "外国 : がいこく - Foreign country"]
     },
     "東": {
         "strokes": 8,
@@ -2167,7 +2236,8 @@
         "wk_radicals": [
             "Tree",
             "Sun"
-        ]
+        ],
+        "examples": ["東 : ひがし - East", "東京 : とうきょう - Tokyo"]
     },
     "長": {
         "strokes": 8,
@@ -2201,7 +2271,8 @@
         ],
         "wk_radicals": [
             "Long"
-        ]
+        ],
+        "examples": ["長い : ながい - Long", "学長 : がくちょう - Principal"]
     },
     "前": {
         "strokes": 9,
@@ -2236,7 +2307,8 @@
             "Ground",
             "Moon",
             "Knife"
-        ]
+        ],
+        "examples": ["名前 : なまえ - Name", "午前 : ごぜん - Morning"]
     },
     "南": {
         "strokes": 9,
@@ -2269,7 +2341,8 @@
             "Head",
             "Horns",
             "Dry"
-        ]
+        ],
+        "examples": ["南 : みなみ - South", "南国 : なんごく - Tropical country"]
     },
     "後": {
         "strokes": 9,
@@ -2313,7 +2386,8 @@
             "Loiter",
             "Poop",
             "Winter"
-        ]
+        ],
+        "examples": ["後ろ : うしろ - Behind", "午後 : ごご - Afternoon"]
     },
     "食": {
         "strokes": 9,
@@ -2349,7 +2423,8 @@
         ],
         "wk_radicals": [
             "Eat"
-        ]
+        ],
+        "examples": ["食べる : たべる - To eat", "食事 : しょくじ - Meal"]
     },
     "校": {
         "strokes": 10,
@@ -2381,7 +2456,8 @@
             "Tree",
             "Lid",
             "Father"
-        ]
+        ],
+        "examples": ["学校 : がっこう - School", "校長 : こうちょう - Principal"]
     },
     "時": {
         "strokes": 10,
@@ -2415,7 +2491,8 @@
         "wk_radicals": [
             "Sun",
             "Temple"
-        ]
+        ],
+        "examples": ["時間 : じかん - Time", "時計 : とけい - Clock"]
     },
     "高": {
         "strokes": 10,
@@ -2454,7 +2531,8 @@
             "Lid",
             "Mouth",
             "Mustache"
-        ]
+        ],
+        "examples": ["高い : たかい - Expensive", "高校 : こうこう - High school"]
     },
     "間": {
         "strokes": 12,
@@ -2492,7 +2570,8 @@
         "wk_radicals": [
             "Gate",
             "Sun"
-        ]
+        ],
+        "examples": ["時間 : じかん - Time", "間違い : まちがい - Mistake"]
     },
     "話": {
         "strokes": 13,
@@ -2526,7 +2605,8 @@
         "wk_radicals": [
             "Say",
             "Tongue"
-        ]
+        ],
+        "examples": ["話す : はなす - To speak", "会話 : かいわ - Conversation"]
     },
     "電": {
         "strokes": 13,
@@ -2553,9 +2633,10 @@
             "Rain",
             "Rice Paddy",
             "Umbrella"
-        ]
+        ],
+        "examples": ["電車 : でんしゃ - Train", "電話 : でんわ - Telephone"]
     },
-    "聞": {
+    "聞": { 
         "strokes": 14,
         "grade": 2,
         "freq": 319,
@@ -2588,7 +2669,8 @@
         "wk_radicals": [
             "Gate",
             "Ear"
-        ]
+        ],
+        "examples": ["聞く : きく - To listen", "新聞 : しんぶん - Newspaper"]
     },
     "語": {
         "strokes": 14,
@@ -2622,7 +2704,8 @@
             "Say",
             "Five",
             "Mouth"
-        ]
+        ],
+        "examples": ["日本語 : にほんご - Japanese language", "物語 : ものがたり - Story"]
     },
     "読": {
         "strokes": 14,
@@ -2656,7 +2739,8 @@
         "wk_radicals": [
             "Say",
             "Sell"
-        ]
+        ],
+        "examples": ["読む : よむ - To read", "読書 : どくしょ - Reading"]
     },
     "生": {
         "strokes": 5,
@@ -2710,7 +2794,8 @@
         ],
         "wk_radicals": [
             "Life"
-        ]
+        ],
+        "examples": ["先生 : せんせい - Teacher", "生まれる : うまれる - To be born"]
     },
     "書": {
         "strokes": 10,
@@ -2743,6 +2828,7 @@
         "wk_radicals": [
             "Brush",
             "Sun"
-        ]
+        ],
+        "examples": ["書く : かく - To write", "読書 : どくしょ - Reading"]
     }
 }

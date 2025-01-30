@@ -93,3 +93,16 @@
     color: #888;
   }
   
+  .examples-section {
+    margin-top: 10px;
+  }
+  
+  .example-item {
+    margin: 5px 0;
+    padding-left: 20px;
+  }
+  
+  .dark-mode .example-item {
+    color: white;
+  }
+  

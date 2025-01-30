@@ -14,6 +14,14 @@ const KanjiPopup = ({ kanji, selectedKanji, onClose }) => {
           <p><strong>Meanings:</strong> {kanji.meanings.join(', ')}</p>
           <p><strong>On Reading:</strong> {kanji.readings_on.join(', ')}</p>
           <p><strong>Kun Reading:</strong> {kanji.readings_kun.join(', ')}</p>
+          {kanji.examples && (
+            <div className="examples-section">
+              <p><strong>Examples:</strong></p>
+              {kanji.examples.map((example, index) => (
+                <p key={index} className="example-item">{example}</p>
+              ))}
+            </div>
+          )}
         </div>
       </div>
     </div>
