@@ -35,7 +35,8 @@
         ],
         "wk_radicals": [
             "Power"
-        ]
+        ],
+        "examples": ["力持ち : ちからもち - Strong person", "努力 : どりょく - Effort"]
     },
     "口": {
         "strokes": 3,
@@ -64,9 +65,7 @@
         "wk_readings_kun": [
             "!くち"
         ],
-        "wk_radicals": [
-            "Mouth"
-        ]
+        "examples": ["出口 : でぐち - Exit", "口笛 : くちぶえ - Whistle"]
     },
     "工": {
         "strokes": 3,
@@ -95,9 +94,7 @@
             "^く"
         ],
         "wk_readings_kun": [],
-        "wk_radicals": [
-            "Construction"
-        ]
+        "examples": ["工事 : こうじ - Construction", "工場 : こうじょう - Factory"]
     },
     "夕": {
         "strokes": 3,
@@ -124,9 +121,7 @@
         "wk_readings_kun": [
             "ゆう"
         ],
-        "wk_radicals": [
-            "Evening"
-        ]
+        "examples": ["夕日 : ゆうひ - Sunset", "夕飯 : ゆうはん - Dinner"]
     },
     "手": {
         "strokes": 4,
@@ -157,9 +152,7 @@
         "wk_readings_kun": [
             "て"
         ],
-        "wk_radicals": [
-            "Hand"
-        ]
+        "examples": ["手紙 : てがみ - Letter", "手伝う : てつだう - Help"]
     },
     "文": {
         "strokes": 4,
@@ -195,9 +188,7 @@
             "もん"
         ],
         "wk_readings_kun": [],
-        "wk_radicals": [
-            "Writing"
-        ]
+        "examples": ["文学 : ぶんがく - Literature", "文章 : ぶんしょう - Sentence"]
     },
     "犬": {
         "strokes": 4,
@@ -225,9 +216,7 @@
         "wk_readings_kun": [
             "いぬ"
         ],
-        "wk_radicals": [
-            "Dog"
-        ]
+        "examples": ["子犬 : こいぬ - Puppy", "番犬 : ばんけん - Guard dog"]
     },
     "正": {
         "strokes": 5,
@@ -263,10 +252,7 @@
             "!ただ",
             "!まさ"
         ],
-        "wk_radicals": [
-            "Ground",
-            "Stop"
-        ]
+        "examples": ["正解 : せいかい - Correct answer", "正直 : しょうじき - Honest"]
     },
     "田": {
         "strokes": 5,
@@ -296,9 +282,7 @@
         "wk_readings_kun": [
             "た"
         ],
-        "wk_radicals": [
-            "Rice Paddy"
-        ]
+        "examples": ["田舎 : いなか - Countryside", "田植え : たうえ - Rice planting"]
     },
     "目": {
         "strokes": 5,
@@ -334,9 +318,7 @@
         "wk_readings_kun": [
             "め"
         ],
-        "wk_radicals": [
-            "Eye"
-        ]
+        "examples": ["目的 : もくてき - Goal", "目立つ : めだつ - Stand out"]
     },
     "立": {
         "strokes": 5,
@@ -378,9 +360,7 @@
         "wk_readings_kun": [
             "!た"
         ],
-        "wk_radicals": [
-            "Stand"
-        ]
+        "examples": ["立場 : たちば - Position", "立派 : りっぱ - Splendid"]
     },
     "元": {
         "strokes": 4,
@@ -411,9 +391,7 @@
         "wk_readings_kun": [
             "!もと"
         ],
-        "wk_radicals": [
-            "Origin"
-        ]
+        "examples": ["元気 : げんき - Healthy", "元日 : がんじつ - New Year's Day"]
     },
     "公": {
         "strokes": 4,
@@ -442,10 +420,7 @@
             "こう"
         ],
         "wk_readings_kun": [],
-        "wk_radicals": [
-            "Fins",
-            "Private"
-        ]
+        "examples": ["公園 : こうえん - Park", "公平 : こうへい - Fairness"]
     },
     "切": {
         "strokes": 4,
@@ -484,10 +459,7 @@
         "wk_readings_kun": [
             "!き"
         ],
-        "wk_radicals": [
-            "Seven",
-            "Sword"
-        ]
+        "examples": ["切手 : きって - Postage stamp", "親切 : しんせつ - Kindness"]
     },
     "少": {
         "strokes": 4,
@@ -517,10 +489,7 @@
         "wk_readings_kun": [
             "!すこ"
         ],
-        "wk_radicals": [
-            "Small",
-            "Slide"
-        ]
+        "examples": ["少々 : しょうしょう - A little", "少ない : すくない - Few"]
     },
     "心": {
         "strokes": 4,
@@ -551,9 +520,7 @@
         "wk_readings_kun": [
             "!こころ"
         ],
-        "wk_radicals": [
-            "Heart"
-        ]
+        "examples": ["安心 : あんしん - Relief", "心理 : しんり - Psychology"]
     },
     "方": {
         "strokes": 4,
@@ -585,9 +552,7 @@
         "wk_readings_kun": [
             "!かた"
         ],
-        "wk_radicals": [
-            "Direction"
-        ]
+        "examples": ["方法 : ほうほう - Method", "方向 : ほうこう - Direction"]
     },
     "牛": {
         "strokes": 4,
@@ -614,9 +579,7 @@
         "wk_readings_kun": [
             "!うし"
         ],
-        "wk_radicals": [
-            "Cow"
-        ]
+        "examples": ["牛乳 : ぎゅうにゅう - Milk", "牛肉 : ぎゅうにく - Beef"]
     },
     "止": {
         "strokes": 4,
@@ -658,9 +621,7 @@
             "!と",
             "!や"
         ],
-        "wk_radicals": [
-            "Stop"
-        ]
+        "examples": ["停止 : ていし - Stop", "止まる : とまる - To stop"]
     },
     "兄": {
         "strokes": 5,
@@ -691,10 +652,7 @@
         "wk_readings_kun": [
             "!あに"
         ],
-        "wk_radicals": [
-            "Mouth",
-            "Legs"
-        ]
+        "examples": ["兄弟 : きょうだい - Siblings", "お兄さん : おにいさん - Older brother"]
     },
     "冬": {
         "strokes": 5,
@@ -721,10 +679,7 @@
         "wk_readings_kun": [
             "ふゆ"
         ],
-        "wk_radicals": [
-            "Winter",
-            "Two"
-        ]
+        "examples": ["冬休み : ふゆやすみ - Winter break", "冬服 : ふゆふく - Winter clothes"]
     },
     "古": {
         "strokes": 5,
@@ -753,9 +708,7 @@
         "wk_readings_kun": [
             "!ふる"
         ],
-        "wk_radicals": [
-            "Old"
-        ]
+        "examples": ["古本 : ふるほん - Second-hand book", "古代 : こだい - Ancient times"]
     },
     "台": {
         "strokes": 5,
@@ -786,10 +739,7 @@
             "^たい"
         ],
         "wk_readings_kun": [],
-        "wk_radicals": [
-            "Private",
-            "Mouth"
-        ]
+        "examples": ["台風 : たいふう - Typhoon", "台所 : だいどころ - Kitchen"]
     },
     "広": {
         "strokes": 5,
@@ -822,10 +772,7 @@
         "wk_readings_kun": [
             "ひろ"
         ],
-        "wk_radicals": [
-            "Canopy",
-            "Private"
-        ]
+        "examples": ["広場 : ひろば - Plaza", "広告 : こうこく - Advertisement"]
     },
     "用": {
         "strokes": 5,
@@ -857,9 +804,7 @@
         "wk_readings_kun": [
             "!もち"
         ],
-        "wk_radicals": [
-            "Task"
-        ]
+        "examples": ["用事 : ようじ - Errand", "使用 : しよう - Usage"]
     },
     "世": {
         "strokes": 5,
@@ -893,9 +838,7 @@
         "wk_readings_kun": [
             "!よ"
         ],
-        "wk_radicals": [
-            "World"
-        ]
+        "examples": ["世界 : せかい - World", "世代 : せだい - Generation"]
     },
     "主": {
         "strokes": 5,
@@ -932,9 +875,7 @@
             "!おも",
             "!ぬし"
         ],
-        "wk_radicals": [
-            "Master"
-        ]
+        "examples": ["主人 : しゅじん - Master", "主題 : しゅだい - Theme"]
     },
     "代": {
         "strokes": 5,
@@ -985,10 +926,7 @@
             "!かわ",
             "!しろ"
         ],
-        "wk_radicals": [
-            "Leader",
-            "Ceremony"
-        ]
+        "examples": ["代表 : だいひょう - Representative", "時代 : じだい - Era"]
     },
     "写": {
         "strokes": 5,
@@ -1021,11 +959,7 @@
         "wk_readings_kun": [
             "!うつ"
         ],
-        "wk_radicals": [
-            "Forehead",
-            "Ground",
-            "Beggar"
-        ]
+        "examples": ["写真 : しゃしん - Photograph", "写す : うつす - To copy"]
     },
     "去": {
         "strokes": 5,
@@ -1061,10 +995,7 @@
         "wk_readings_kun": [
             "!さ"
         ],
-        "wk_radicals": [
-            "Dirt",
-            "Private"
-        ]
+        "examples": ["去年 : きょねん - Last year", "過去 : かこ - Past"]
     },
     "字": {
         "strokes": 6,
@@ -1096,10 +1027,7 @@
             "じ"
         ],
         "wk_readings_kun": [],
-        "wk_radicals": [
-            "Roof",
-            "Child"
-        ]
+        "examples": ["文字 : もじ - Character", "漢字 : かんじ - Kanji"]
     },
     "早": {
         "strokes": 6,
@@ -1136,10 +1064,7 @@
             "!はや",
             "!さ"
         ],
-        "wk_radicals": [
-            "Sun",
-            "Cross"
-        ]
+        "examples": ["早朝 : そうちょう - Early morning", "早速 : さっそく - Immediately"]
     },
     "町": {
         "strokes": 7,
@@ -1169,10 +1094,7 @@
         "wk_readings_kun": [
             "!まち"
         ],
-        "wk_radicals": [
-            "Rice Paddy",
-            "Street"
-        ]
+        "examples": ["町中 : まちなか - Downtown", "町長 : ちょうちょう - Mayor"]
     },
     "花": {
         "strokes": 7,
@@ -1201,11 +1123,7 @@
         "wk_readings_kun": [
             "はな"
         ],
-        "wk_radicals": [
-            "Flowers",
-            "Leader",
-            "Spoon"
-        ]
+        "examples": ["花見 : はなみ - Flower viewing", "花瓶 : かびん - Vase"]
     },
     "赤": {
         "strokes": 7,
@@ -1237,9 +1155,7 @@
         "wk_readings_kun": [
             "あか"
         ],
-        "wk_radicals": [
-            "Red"
-        ]
+        "examples": ["赤ちゃん : あかちゃん - Baby", "赤道 : せきどう - Equator"]
     },
     "足": {
         "strokes": 7,
@@ -1275,9 +1191,7 @@
             "!あし",
             "!た"
         ],
-        "wk_radicals": [
-            "Foot"
-        ]
+        "examples": ["足元 : あしもと - At one's feet", "足りる : たりる - To be enough"]
     },
     "不": {
         "strokes": 4,
@@ -1305,9 +1219,7 @@
             "ふ"
         ],
         "wk_readings_kun": [],
-        "wk_radicals": [
-            "Not"
-        ]
+        "examples": ["不安 : ふあん - Anxiety", "不便 : ふべん - Inconvenience"]
     },
     "仕": {
         "strokes": 5,
@@ -1339,10 +1251,7 @@
         "wk_readings_kun": [
             "!つか"
         ],
-        "wk_radicals": [
-            "Leader",
-            "Samurai"
-        ]
+        "examples": ["仕事 : しごと - Work", "仕方 : しかた - Way, Method"]
     },
     "会": {
         "strokes": 6,
@@ -1377,9 +1286,7 @@
         "wk_readings_kun": [
             "!あ"
         ],
-        "wk_radicals": [
-            "Meet"
-        ]
+        "examples": ["会社 : かいしゃ - Company", "会話 : かいわ - Conversation"]
     },
     "同": {
         "strokes": 6,
@@ -1408,10 +1315,7 @@
         "wk_readings_kun": [
             "!おな"
         ],
-        "wk_radicals": [
-            "Mustache",
-            "Ground"
-        ]
+        "examples": ["同時 : どうじ - Simultaneous", "同意 : どうい - Agreement"]
     },
     "多": {
         "strokes": 6,
@@ -1444,9 +1348,7 @@
         "wk_readings_kun": [
             "!おお"
         ],
-        "wk_radicals": [
-            "Evening"
-        ]
+        "examples": ["多少 : たしょう - More or less", "多分 : たぶん - Probably"]
     },
     "考": {
         "strokes": 6,
@@ -1476,10 +1378,7 @@
         "wk_readings_kun": [
             "!かんが"
         ],
-        "wk_radicals": [
-            "Coffin",
-            "Beggar"
-        ]
+        "examples": ["考える : かんがえる - To think", "参考 : さんこう - Reference"]
     },
     "肉": {
         "strokes": 6,
@@ -1504,9 +1403,7 @@
             "にく"
         ],
         "wk_readings_kun": [],
-        "wk_radicals": [
-            "Meat"
-        ]
+        "examples": ["肉屋 : にくや - Butcher", "筋肉 : きんにく - Muscle"]
     },
     "自": {
         "strokes": 6,
@@ -1535,9 +1432,7 @@
             "し"
         ],
         "wk_readings_kun": [],
-        "wk_radicals": [
-            "Self"
-        ]
+        "examples": ["自分 : じぶん - Oneself", "自然 : しぜん - Nature"]
     },
     "色": {
         "strokes": 6,
@@ -1566,9 +1461,7 @@
         "wk_readings_kun": [
             "いろ"
         ],
-        "wk_radicals": [
-            "Color"
-        ]
+        "examples": ["色彩 : しきさい - Color", "景色 : けしき - Scenery"]
     },
     "体": {
         "strokes": 7,
@@ -1601,10 +1494,7 @@
         "wk_readings_kun": [
             "!からだ"
         ],
-        "wk_radicals": [
-            "Leader",
-            "Book"
-        ]
+        "examples": ["身体 : しんたい - Body", "体験 : たいけん - Experience"]
     },
     "作": {
         "strokes": 7,
@@ -1638,10 +1528,7 @@
         "wk_readings_kun": [
             "!つく"
         ],
-        "wk_radicals": [
-            "Leader",
-            "Key"
-        ]
+        "examples": ["作る : つくる - To make", "作品 : さくひん - Work (art)"]
     },
     "図": {
         "strokes": 7,
@@ -1676,11 +1563,7 @@
             "!え",
             "!はか"
         ],
-        "wk_radicals": [
-            "Mouth",
-            "Treasure",
-            "Ice"
-        ]
+        "examples": ["図書館 : としょかん - Library", "図形 : ずけい - Shape"]
     },
     "売": {
         "strokes": 7,
@@ -1708,11 +1591,7 @@
         "wk_readings_kun": [
             "!う"
         ],
-        "wk_radicals": [
-            "Samurai",
-            "Forehead",
-            "Legs"
-        ]
+        "examples": ["売る : うる - To sell", "売店 : ばいてん - Stall"]
     },
     "弟": {
         "strokes": 7,
@@ -1745,12 +1624,7 @@
         "wk_readings_kun": [
             "!おとうと"
         ],
-        "wk_radicals": [
-            "Horns",
-            "Bow",
-            "Stick",
-            "Slide"
-        ]
+        "examples": ["弟 : おとうと - Younger brother", "弟子 : でし - Apprentice"]
     },
     "社": {
         "strokes": 7,
@@ -1781,10 +1655,7 @@
         "wk_readings_kun": [
             "!やしろ"
         ],
-        "wk_radicals": [
-            "Spirit",
-            "Dirt"
-        ]
+        "examples": ["会社 : かいしゃ - Company", "神社 : じんじゃ - Shrine"]
     },
     "言": {
         "strokes": 7,
@@ -1816,9 +1687,7 @@
             "!い",
             "!こと"
         ],
-        "wk_radicals": [
-            "Say"
-        ]
+        "examples": ["言う : いう - To say", "言葉 : ことば - Word"]
     },
     "走": {
         "strokes": 7,
@@ -1845,9 +1714,7 @@
         "wk_readings_kun": [
             "!はし"
         ],
-        "wk_radicals": [
-            "Run"
-        ]
+        "examples": ["走る : はしる - To run", "速走 : はやばしり - Sprint"]
     },
     "近": {
         "strokes": 7,
@@ -1880,10 +1747,7 @@
         "wk_readings_kun": [
             "!ちか"
         ],
-        "wk_radicals": [
-            "Scooter",
-            "Axe"
-        ]
+        "examples": ["近い : ちかい - Near", "近所 : きんじょ - Neighborhood"]
     },
     "空": {
         "strokes": 8,
@@ -1924,11 +1788,7 @@
             "!から",
             "!す"
         ],
-        "wk_radicals": [
-            "Roof",
-            "Legs",
-            "Construction"
-        ]
+        "examples": ["空港 : くうこう - Airport", "空気 : くうき - Air"]
     },
     "青": {
         "strokes": 8,
@@ -1960,9 +1820,7 @@
         "wk_readings_kun": [
             "!あお"
         ],
-        "wk_radicals": [
-            "Blue"
-        ]
+        "examples": ["青い : あおい - Blue", "青空 : あおぞら - Blue sky"]
     },
     "音": {
         "strokes": 9,
@@ -1994,10 +1852,7 @@
             "!おと",
             "!ね"
         ],
-        "wk_radicals": [
-            "Stand",
-            "Sun"
-        ]
+        "examples": ["音楽 : おんがく - Music", "音声 : おんせい - Voice"]
     },
     "地": {
         "strokes": 6,
@@ -2024,10 +1879,7 @@
             "^じ"
         ],
         "wk_readings_kun": [],
-        "wk_radicals": [
-            "Dirt",
-            "Alligator"
-        ]
+        "examples": ["地図 : ちず - Map", "地元 : じもと - Local area"]
     },
     "安": {
         "strokes": 6,
@@ -2064,10 +1916,7 @@
         "wk_readings_kun": [
             "!やす"
         ],
-        "wk_radicals": [
-            "Roof",
-            "Woman"
-        ]
+        "examples": ["安全 : あんぜん - Safety", "安い : やすい - Cheap"]
     },
     "有": {
         "strokes": 6,
@@ -2101,10 +1950,7 @@
         "wk_readings_kun": [
             "!あ"
         ],
-        "wk_radicals": [
-            "Narwhal",
-            "Moon"
-        ]
+        "examples": ["有名 : ゆうめい - Famous", "有力 : ゆうりょく - Powerful"]
     },
     "死": {
         "strokes": 6,
@@ -2133,10 +1979,7 @@
         "wk_readings_kun": [
             "!し"
         ],
-        "wk_radicals": [
-            "Yakuza",
-            "Spoon"
-        ]
+        "examples": ["死ぬ : しぬ - To die", "死亡 : しぼう - Death"]
     },
     "京": {
         "strokes": 8,
@@ -2166,11 +2009,7 @@
         "wk_readings_kun": [
             "!みやこ"
         ],
-        "wk_radicals": [
-            "Lid",
-            "Mouth",
-            "Small"
-        ]
+        "examples": ["京都 : きょうと - Kyoto", "京子 : きょうこ - A person's name (Kyoko)"]
     },
     "夜": {
         "strokes": 8,
@@ -2201,12 +2040,7 @@
             "!よ",
             "!よる"
         ],
-        "wk_radicals": [
-            "Lid",
-            "Leader",
-            "Winter",
-            "Drop"
-        ]
+        "examples": ["夜 : よる - Night", "夜間 : やかん - Nighttime"]
     },
     "妹": {
         "strokes": 8,
@@ -2234,10 +2068,7 @@
         "wk_readings_kun": [
             "!いもうと"
         ],
-        "wk_radicals": [
-            "Woman",
-            "Jet"
-        ]
+        "examples": ["妹 : いもうと - Younger sister", "妹分 : いもうとぶん - Younger female relative"]
     },
     "姉": {
         "strokes": 8,
@@ -2269,10 +2100,7 @@
             "!あね",
             "!ねえ"
         ],
-        "wk_radicals": [
-            "Woman",
-            "City"
-        ]
+        "examples": ["姉 : あね - Older sister", "姉妹 : しまい - Sisters"]
     },
     "店": {
         "strokes": 8,
@@ -2302,10 +2130,7 @@
         "wk_readings_kun": [
             "!みせ"
         ],
-        "wk_radicals": [
-            "Canopy",
-            "Fortune"
-        ]
+        "examples": ["店 : みせ - Store", "本店 : ほんてん - Main store"]
     },
     "明": {
         "strokes": 8,
@@ -2346,10 +2171,7 @@
             "!あか",
             "!あき"
         ],
-        "wk_radicals": [
-            "Sun",
-            "Moon"
-        ]
+        "examples": ["明日 : あした - Tomorrow", "明るい : あかるい - Bright"]
     },
     "歩": {
         "strokes": 8,
@@ -2381,11 +2203,7 @@
             "!ある",
             "!あゆ"
         ],
-        "wk_radicals": [
-            "Stop",
-            "Small",
-            "Slide"
-        ]
+        "examples": ["歩く : あるく - To walk", "歩道 : ほどう - Sidewalk"]
     },
     "画": {
         "strokes": 8,
@@ -2421,11 +2239,7 @@
             "かく"
         ],
         "wk_readings_kun": [],
-        "wk_radicals": [
-            "Leaf",
-            "Rice Paddy",
-            "Box"
-        ]
+        "examples": ["映画 : えいが - Movie", "画家 : がか - Painter"]
     },
     "知": {
         "strokes": 8,
@@ -2454,10 +2268,7 @@
         "wk_readings_kun": [
             "!し"
         ],
-        "wk_radicals": [
-            "Arrow",
-            "Mouth"
-        ]
+        "examples": ["知る : しる - To know", "知識 : ちしき - Knowledge"]
     },
     "室": {
         "strokes": 9,
@@ -2486,12 +2297,7 @@
             "しつ"
         ],
         "wk_readings_kun": [],
-        "wk_radicals": [
-            "Roof",
-            "Ground",
-            "Private",
-            "Dirt"
-        ]
+        "examples": ["教室 : きょうしつ - Classroom", "寝室 : しんしつ - Bedroom"]
     },
     "思": {
         "strokes": 9,
@@ -2521,10 +2327,7 @@
         "wk_readings_kun": [
             "!おも"
         ],
-        "wk_radicals": [
-            "Rice Paddy",
-            "Heart"
-        ]
+        "examples": ["思う : おもう - To think", "思考 : しこう - Thinking"]
     },
     "海": {
         "strokes": 9,
@@ -2553,11 +2356,7 @@
         "wk_readings_kun": [
             "!うみ"
         ],
-        "wk_radicals": [
-            "Tsunami",
-            "Gun",
-            "Window"
-        ]
+        "examples": ["海 : うみ - Sea", "海洋 : かいよう - Ocean"]
     },
     "茶": {
         "strokes": 9,
@@ -2582,11 +2381,7 @@
             "さ"
         ],
         "wk_readings_kun": [],
-        "wk_radicals": [
-            "Flowers",
-            "Hat",
-            "Angel"
-        ]
+        "examples": ["お茶 : おちゃ - Tea", "茶道 : さどう - Tea ceremony"]
     },
     "以": {
         "strokes": 5,
@@ -2618,11 +2413,7 @@
             "い"
         ],
         "wk_readings_kun": [],
-        "wk_radicals": [
-            "Lion",
-            "Drop",
-            "Person"
-        ]
+        "examples": ["以前 : いぜん - Before", "以上 : いじょう - More than"]
     },
     "夏": {
         "strokes": 10,
@@ -2653,11 +2444,7 @@
         "wk_readings_kun": [
             "なつ"
         ],
-        "wk_radicals": [
-            "Leaf",
-            "Eye",
-            "Winter"
-        ]
+        "examples": ["夏 : なつ - Summer", "夏休み : なつやすみ - Summer break"]
     },
     "家": {
         "strokes": 10,
@@ -2696,10 +2483,7 @@
             "!や",
             "!うち"
         ],
-        "wk_radicals": [
-            "Roof",
-            "Pig"
-        ]
+        "examples": ["家 : いえ - House", "家族 : かぞく - Family"]
     },
     "紙": {
         "strokes": 10,
@@ -2726,10 +2510,7 @@
         "wk_readings_kun": [
             "かみ"
         ],
-        "wk_radicals": [
-            "Thread",
-            "Clan"
-        ]
+        "examples": ["紙 : かみ - Paper", "新聞 : しんぶん - Newspaper"]
     },
     "通": {
         "strokes": 10,
@@ -2769,11 +2550,7 @@
             "!とお",
             "!かよ"
         ],
-        "wk_radicals": [
-            "Scooter",
-            "Mama",
-            "Task"
-        ]
+        "examples": ["通る : とおる - To pass", "通行 : つうこう - Passing"]
     },
     "強": {
         "strokes": 11,
@@ -2806,11 +2583,7 @@
         "wk_readings_kun": [
             "!つよ"
         ],
-        "wk_radicals": [
-            "Bow",
-            "Private",
-            "Insect"
-        ]
+        "examples": ["強い : つよい - Strong", "強化 : きょうか - Strengthening"]
     },
     "教": {
         "strokes": 11,
@@ -2841,10 +2614,7 @@
             "!おし",
             "!おそ"
         ],
-        "wk_radicals": [
-            "Teacher",
-            "Winter"
-        ]
+        "examples": ["教える : おしえる - To teach", "教育 : きょういく - Education"]
     },
     "理": {
         "strokes": 11,
@@ -2875,10 +2645,7 @@
         "wk_readings_kun": [
             "!ことわり"
         ],
-        "wk_radicals": [
-            "King",
-            "Village"
-        ]
+        "examples": ["理論 : りろん - Theory", "理科 : りか - Science"]
     },
     "週": {
         "strokes": 11,
@@ -2901,10 +2668,7 @@
             "しゅう"
         ],
         "wk_readings_kun": [],
-        "wk_radicals": [
-            "Scooter",
-            "Circumference"
-        ]
+        "examples": ["週間 : しゅうかん - Week", "週末 : しゅうまつ - Weekend"]
     },
     "魚": {
         "strokes": 11,
@@ -2933,9 +2697,7 @@
         "wk_readings_kun": [
             "!さかな"
         ],
-        "wk_radicals": [
-            "Fish"
-        ]
+        "examples": ["魚 : さかな - Fish", "漁師 : りょうし - Fisherman"]
     },
     "鳥": {
         "strokes": 11,
@@ -2963,9 +2725,7 @@
         "wk_readings_kun": [
             "!とり"
         ],
-        "wk_radicals": [
-            "Bird"
-        ]
+        "examples": ["鳥 : とり - Bird", "鳥類 : ちょうるい - Birds (species)"]
     },
     "黒": {
         "strokes": 11,
@@ -2994,9 +2754,7 @@
         "wk_readings_kun": [
             "!くろ"
         ],
-        "wk_radicals": [
-            "Black"
-        ]
+        "examples": ["黒い : くろい - Black", "黒板 : こくばん - Blackboard"]
     },
     "住": {
         "strokes": 7,
@@ -3032,10 +2790,7 @@
         "wk_readings_kun": [
             "!す"
         ],
-        "wk_radicals": [
-            "Leader",
-            "Master"
-        ]
+        "examples": ["住む : すむ - To live", "住宅 : じゅうたく - Housing"]
     },
     "医": {
         "strokes": 7,
@@ -3063,10 +2818,7 @@
             "い"
         ],
         "wk_readings_kun": [],
-        "wk_radicals": [
-            "Cage",
-            "Arrow"
-        ]
+        "examples": ["医者 : いしゃ - Doctor", "医学 : いがく - Medicine"]
     },
     "究": {
         "strokes": 7,
@@ -3095,10 +2847,7 @@
         "wk_readings_kun": [
             "!きわ"
         ],
-        "wk_radicals": [
-            "Hole",
-            "Nine"
-        ]
+        "examples": ["研究 : けんきゅう - Research", "究明 : きゅうめい - Investigation"]
     },
     "者": {
         "strokes": 8,
@@ -3127,10 +2876,7 @@
         "wk_readings_kun": [
             "!もの"
         ],
-        "wk_radicals": [
-            "Coffin",
-            "Sun"
-        ]
+        "examples": ["学生 : がくせい - Student", "研究者 : けんきゅうしゃ - Researcher"]
     },
     "研": {
         "strokes": 9,
@@ -3159,10 +2905,7 @@
         "wk_readings_kun": [
             "!と"
         ],
-        "wk_radicals": [
-            "Stone",
-            "Lantern"
-        ]
+        "examples": ["研修 : けんしゅう - Training", "研究 : けんきゅう - Research"]
     },
     "場": {
         "strokes": 12,
@@ -3192,10 +2935,7 @@
         "wk_readings_kun": [
             "!ば"
         ],
-        "wk_radicals": [
-            "Dirt",
-            "Easy"
-        ]
+        "examples": ["場所 : ばしょ - Place", "広場 : ひろば - Plaza"]
     },
     "朝": {
         "strokes": 12,
@@ -3227,11 +2967,7 @@
         "wk_readings_kun": [
             "あさ"
         ],
-        "wk_radicals": [
-            "Cross",
-            "Sun",
-            "Moon"
-        ]
+        "examples": ["朝 : あさ - Morning", "朝食 : ちょうしょく - Breakfast"]
     },
     "答": {
         "strokes": 12,
@@ -3262,10 +2998,7 @@
         "wk_readings_kun": [
             "こた"
         ],
-        "wk_radicals": [
-            "Bamboo",
-            "Suit"
-        ]
+        "examples": ["答える : こたえる - To answer", "答え : こたえ - Answer"]
     },
     "買": {
         "strokes": 12,
@@ -3292,10 +3025,7 @@
         "wk_readings_kun": [
             "か"
         ],
-        "wk_radicals": [
-            "Net",
-            "Shellfish"
-        ]
+        "examples": ["買う : かう - To buy", "買い物 : かいもの - Shopping"]
     },
     "道": {
         "strokes": 12,
@@ -3333,10 +3063,7 @@
         "wk_readings_kun": [
             "!みち"
         ],
-        "wk_radicals": [
-            "Scooter",
-            "Neck"
-        ]
+        "examples": ["道路 : どうろ - Road", "道具 : どうぐ - Tool"]
     },
     "楽": {
         "strokes": 13,
@@ -3372,11 +3099,7 @@
         "wk_readings_kun": [
             "!たの"
         ],
-        "wk_radicals": [
-            "White",
-            "Ice",
-            "Tree"
-        ]
+        "examples": ["楽しい : たのしい - Fun", "音楽 : おんがく - Music"]
     },
     "事": {
         "strokes": 8,
@@ -3414,11 +3137,7 @@
             "!こと",
             "!つか"
         ],
-        "wk_radicals": [
-            "Cross",
-            "Mouth",
-            "Brush"
-        ]
+        "examples": ["事 : こと - Thing", "仕事 : しごと - Work"]
     },
     "使": {
         "strokes": 8,
@@ -3454,11 +3173,7 @@
         "wk_readings_kun": [
             "!つか"
         ],
-        "wk_radicals": [
-            "Leader",
-            "Ground",
-            "History"
-        ]
+        "examples": ["使う : つかう - To use", "使用 : しよう - Usage"]
     },
     "始": {
         "strokes": 8,
@@ -3489,10 +3204,7 @@
         "wk_readings_kun": [
             "!はじ"
         ],
-        "wk_radicals": [
-            "Woman",
-            "Machine"
-        ]
+        "examples": ["始める : はじめる - To begin", "始まり : はじまり - Beginning"]
     },
     "服": {
         "strokes": 8,
@@ -3519,11 +3231,7 @@
             "ふく"
         ],
         "wk_readings_kun": [],
-        "wk_radicals": [
-            "Moon",
-            "Stamp",
-            "Stool"
-        ]
+        "examples": ["服 : ふく - Clothes", "制服 : せいふく - Uniform"]
     },
     "物": {
         "strokes": 8,
@@ -3555,10 +3263,7 @@
         "wk_readings_kun": [
             "!もの"
         ],
-        "wk_radicals": [
-            "Cow",
-            "Wing"
-        ]
+        "examples": ["物 : もの - Thing", "動物 : どうぶつ - Animal"]
     },
     "屋": {
         "strokes": 9,
@@ -3591,12 +3296,7 @@
         "wk_readings_kun": [
             "や"
         ],
-        "wk_radicals": [
-            "Flag",
-            "Ground",
-            "Private",
-            "Dirt"
-        ]
+        "examples": ["屋 : や - House, shop", "本屋 : ほんや - Bookstore"]
     },
     "度": {
         "strokes": 9,
@@ -3633,10 +3333,7 @@
         "wk_readings_kun": [
             "!たび"
         ],
-        "wk_radicals": [
-            "Yurt",
-            "Stool"
-        ]
+        "examples": ["度 : ど - Degree", "度々 : たびたび - Often"]
     },
     "待": {
         "strokes": 9,
@@ -3665,10 +3362,7 @@
         "wk_readings_kun": [
             "!ま"
         ],
-        "wk_radicals": [
-            "Loiter",
-            "Temple"
-        ]
+        "examples": ["待つ : まつ - To wait", "待機 : たいき - Standby"]
     },
     "持": {
         "strokes": 9,
@@ -3698,10 +3392,7 @@
         "wk_readings_kun": [
             "!も"
         ],
-        "wk_radicals": [
-            "Fingers",
-            "Temple"
-        ]
+        "examples": ["持つ : もつ - To hold", "持ち物 : もちもの - Belongings"]
     },
     "界": {
         "strokes": 9,
@@ -3725,10 +3416,7 @@
             "かい"
         ],
         "wk_readings_kun": [],
-        "wk_radicals": [
-            "Rice Paddy",
-            "Jammed In"
-        ]
+        "examples": ["世界 : せかい - World", "界面 : かいめん - Interface"]
     },
     "発": {
         "strokes": 9,
@@ -3764,10 +3452,7 @@
             "はつ"
         ],
         "wk_readings_kun": [],
-        "wk_radicals": [
-            "Tent",
-            "Lantern"
-        ]
+        "examples": ["発表 : はっぴょう - Presentation", "発展 : はってん - Development"]
     },
     "送": {
         "strokes": 9,
@@ -3795,11 +3480,7 @@
         "wk_readings_kun": [
             "!おく"
         ],
-        "wk_radicals": [
-            "Scooter",
-            "Horns",
-            "Heaven"
-        ]
+        "examples": ["送る : おくる - To send", "配送 : はいそう - Delivery"]
     },
     "重": {
         "strokes": 9,
@@ -3843,9 +3524,7 @@
             "!かさ",
             "!え"
         ],
-        "wk_radicals": [
-            "Heavy"
-        ]
+        "examples": ["重い : おもい - Heavy", "重要 : じゅうよう - Important"]
     },
     "起": {
         "strokes": 10,
@@ -3878,10 +3557,7 @@
         "wk_readings_kun": [
             "お"
         ],
-        "wk_radicals": [
-            "Run",
-            "Oneself"
-        ]
+        "examples": ["起きる : おきる - To wake up", "起こす : おこす - To cause"]
     },
     "院": {
         "strokes": 10,
@@ -3908,11 +3584,7 @@
             "いん"
         ],
         "wk_readings_kun": [],
-        "wk_radicals": [
-            "Building",
-            "Roof",
-            "Origin"
-        ]
+        "examples": ["病院 : びょういん - Hospital", "学院 : がくいん - Academy"]
     },
     "終": {
         "strokes": 11,
@@ -3947,11 +3619,7 @@
             "!おわ",
             "!お"
         ],
-        "wk_radicals": [
-            "Thread",
-            "Winter",
-            "Two"
-        ]
+        "examples": ["終わる : おわる - To end", "終了 : しゅうりょう - Completion"]
     },
     "習": {
         "strokes": 11,
@@ -3980,10 +3648,7 @@
         "wk_readings_kun": [
             "!なら"
         ],
-        "wk_radicals": [
-            "Feathers",
-            "White"
-        ]
+        "examples": ["習う : ならう - To learn", "習慣 : しゅうかん - Custom"]
     },
     "転": {
         "strokes": 11,
@@ -4019,10 +3684,7 @@
         "wk_readings_kun": [
             "!ころ"
         ],
-        "wk_radicals": [
-            "Car",
-            "Cloud"
-        ]
+        "examples": ["転ぶ : ころぶ - To fall", "転送 : てんそう - Forwarding"]
     },
     "運": {
         "strokes": 12,
@@ -4057,11 +3719,7 @@
         "wk_readings_kun": [
             "!はこ"
         ],
-        "wk_radicals": [
-            "Scooter",
-            "Forehead",
-            "Car"
-        ]
+        "examples": ["運転 : うんてん - Driving", "運命 : うんめい - Fate"]
     },
     "開": {
         "strokes": 12,
@@ -4096,10 +3754,7 @@
             "!あ",
             "!ひら"
         ],
-        "wk_radicals": [
-            "Gate",
-            "Lantern"
-        ]
+        "examples": ["開く : あく - To open", "開発 : かいはつ - Development"]
     },
     "集": {
         "strokes": 12,
@@ -4133,10 +3788,7 @@
         "wk_readings_kun": [
             "!あつ"
         ],
-        "wk_radicals": [
-            "Turkey",
-            "Tree"
-        ]
+        "examples": ["集める : あつめる - To collect", "集会 : しゅうかい - Meeting"]
     },
     "飲": {
         "strokes": 12,
@@ -4167,10 +3819,7 @@
         "wk_readings_kun": [
             "の"
         ],
-        "wk_radicals": [
-            "Eat",
-            "Lack"
-        ]
+        "examples": ["飲む : のむ - To drink", "飲料 : いんりょう - Beverage"]
     },
     "業": {
         "strokes": 13,
@@ -4199,11 +3848,7 @@
             "ぎょう"
         ],
         "wk_readings_kun": [],
-        "wk_radicals": [
-            "Spikes",
-            "Sheep",
-            "Fins"
-        ]
+        "examples": ["業務 : ぎょうむ - Business", "産業 : さんぎょう - Industry"]
     },
     "漢": {
         "strokes": 13,
@@ -4228,10 +3873,7 @@
             "かん"
         ],
         "wk_readings_kun": [],
-        "wk_radicals": [
-            "Tsunami",
-            "Chinese"
-        ]
+        "examples": ["漢字 : かんじ - Kanji", "漢方 : かんぽう - Chinese medicine"]
     },
     "歌": {
         "strokes": 14,
@@ -4261,10 +3903,7 @@
         "wk_readings_kun": [
             "!うた"
         ],
-        "wk_radicals": [
-            "Lip Ring",
-            "Lack"
-        ]
+        "examples": ["歌う : うたう - To sing", "歌詞 : かし - Lyrics"] 
     },
     "親": {
         "strokes": 16,
@@ -4299,11 +3938,7 @@
             "!おや",
             "!した"
         ],
-        "wk_radicals": [
-            "Stand",
-            "Tree",
-            "See"
-        ]
+        "examples": ["親 : おや - Parent", "親切 : しんせつ - Kindness"]
     },
     "病": {
         "strokes": 10,
@@ -4338,10 +3973,7 @@
             "!や",
             "!やまい"
         ],
-        "wk_radicals": [
-            "Sick",
-            "Dynamite"
-        ]
+        "examples": ["病気 : びょうき - Illness", "病院 : びょういん - Hospital"]
     },
     "別": {
         "strokes": 7,
@@ -4375,11 +4007,7 @@
         "wk_readings_kun": [
             "!わか"
         ],
-        "wk_radicals": [
-            "Mouth",
-            "Sword",
-            "Knife"
-        ]
+        "examples": ["別れる : わかれる - To part", "別の : べつの - Another"]
     },
     "注": {
         "strokes": 8,
@@ -4417,10 +4045,7 @@
             "!さ",
             "!つ"
         ],
-        "wk_radicals": [
-            "Tsunami",
-            "Master"
-        ]
+        "examples": ["注ぐ : そそぐ - To pour", "注意 : ちゅうい - Attention"]
     },
     "洋": {
         "strokes": 9,
@@ -4447,10 +4072,7 @@
             "よう"
         ],
         "wk_readings_kun": [],
-        "wk_radicals": [
-            "Tsunami",
-            "Sheep"
-        ]
+        "examples": ["洋服 : ようふく - Western clothes", "洋画 : ようが - Western-style painting"]
     },
     "特": {
         "strokes": 10,
@@ -4473,10 +4095,7 @@
             "とく"
         ],
         "wk_readings_kun": [],
-        "wk_radicals": [
-            "Cow",
-            "Temple"
-        ]
+        "examples": ["特別 : とくべつ - Special", "特徴 : とくちょう - Characteristic"]
     },
     "意": {
         "strokes": 13,
@@ -4506,10 +4125,7 @@
             "い"
         ],
         "wk_readings_kun": [],
-        "wk_radicals": [
-            "Sound",
-            "Heart"
-        ]
+        "examples": ["意味 : いみ - Meaning", "意見 : いけん - Opinion"]
     },
     "味": {
         "strokes": 8,
@@ -4539,10 +4155,7 @@
         "wk_readings_kun": [
             "!あじ"
         ],
-        "wk_radicals": [
-            "Mouth",
-            "Jet"
-        ]
+        "examples": ["味 : あじ - Taste", "旨味 : うまみ - Umami"]
     },
     "勉": {
         "strokes": 10,
@@ -4572,10 +4185,7 @@
             "べん"
         ],
         "wk_readings_kun": [],
-        "wk_radicals": [
-            "Excuse",
-            "Power"
-        ]
+        "examples": ["勉強 : べんきょう - Study", "勉強する : べんきょうする - To study"]
     },
     "旅": {
         "strokes": 10,
@@ -4604,11 +4214,7 @@
         "wk_readings_kun": [
             "!たび"
         ],
-        "wk_radicals": [
-            "Direction",
-            "Gun",
-            "Tofu"
-        ]
+        "examples": ["旅行 : りょこう - Travel", "旅館 : りょかん - Inn"]
     },
     "員": {
         "strokes": 10,
@@ -4634,10 +4240,7 @@
             "いん"
         ],
         "wk_readings_kun": [],
-        "wk_radicals": [
-            "Mouth",
-            "Shellfish"
-        ]
+        "examples": ["社員 : しゃいん - Employee", "メンバー : めんばー - Member"]
     },
     "動": {
         "strokes": 11,
@@ -4670,10 +4273,7 @@
         "wk_readings_kun": [
             "!うご"
         ],
-        "wk_radicals": [
-            "Heavy",
-            "Power"
-        ]
+        "examples": ["動く : うごく - To move", "自動 : じどう - Automatic"]
     },
     "悪": {
         "strokes": 11,
@@ -4716,10 +4316,7 @@
         "wk_readings_kun": [
             "!わる"
         ],
-        "wk_radicals": [
-            "Asia",
-            "Heart"
-        ]
+        "examples": ["悪い : わるい - Bad", "悪化 : あっか - Deterioration"]
     },
     "族": {
         "strokes": 11,
@@ -4744,11 +4341,7 @@
             "ぞく"
         ],
         "wk_readings_kun": [],
-        "wk_radicals": [
-            "Direction",
-            "Gun",
-            "Arrow"
-        ]
+        "examples": ["家族 : かぞく - Family", "民族 : みんぞく - Ethnic group"]
     },
     "着": {
         "strokes": 12,
@@ -4786,12 +4379,7 @@
             "!き",
             "!つ"
         ],
-        "wk_radicals": [
-            "Horns",
-            "King",
-            "Slide",
-            "Eye"
-        ]
+        "examples": ["着る : きる - To wear", "到着 : とうちゃく - Arrival"]
     },
     "野": {
         "strokes": 11,
@@ -4823,10 +4411,7 @@
         "wk_readings_kun": [
             "!の"
         ],
-        "wk_radicals": [
-            "Village",
-            "Beforehand"
-        ]
+        "examples": ["野菜 : やさい - Vegetable", "野球 : やきゅう - Baseball"]
     },
     "風": {
         "strokes": 9,
@@ -4861,11 +4446,7 @@
         "wk_readings_kun": [
             "!かぜ"
         ],
-        "wk_radicals": [
-            "Table",
-            "Slide",
-            "Insect"
-        ]
+        "examples": ["風 : ふう - Wind", "風景 : ふうけい - Scenery"]
     },
     "新": {
         "strokes": 13,
@@ -4897,11 +4478,7 @@
             "!あら",
             "!にい"
         ],
-        "wk_radicals": [
-            "Stand",
-            "Tree",
-            "Axe"
-        ]
+        "examples": ["新しい : あたらしい - New", "新聞 : しんぶん - Newspaper"]
     },
     "問": {
         "strokes": 11,
@@ -4933,10 +4510,7 @@
             "!と",
             "!とん"
         ],
-        "wk_radicals": [
-            "Gate",
-            "Mouth"
-        ]
+        "examples": ["質問 : しつもん - Question", "問う : とう - To ask"]
     },
     "銀": {
         "strokes": 14,
@@ -4961,10 +4535,7 @@
             "ぎん"
         ],
         "wk_readings_kun": [],
-        "wk_radicals": [
-            "Gold",
-            "Root"
-        ]
+        "examples": ["銀 : ぎん - Silver", "銀行 : ぎんこう - Bank"]
     },
     "題": {
         "strokes": 18,
@@ -4988,11 +4559,7 @@
             "だい"
         ],
         "wk_readings_kun": [],
-        "wk_radicals": [
-            "Sun",
-            "Correct",
-            "Geoduck"
-        ]
+        "examples": ["題名 : だいめい - Title", "問題 : もんだい - Problem"]
     },
     "館": {
         "strokes": 16,
@@ -5021,11 +4588,7 @@
             "かん"
         ],
         "wk_readings_kun": [],
-        "wk_radicals": [
-            "Eat",
-            "Roof",
-            "Bear"
-        ]
+        "examples": ["博物館 : はくぶつかん - Museum", "図書館 : としょかん - Library"]
     },
     "駅": {
         "strokes": 14,
@@ -5049,10 +4612,7 @@
             "えき"
         ],
         "wk_readings_kun": [],
-        "wk_radicals": [
-            "Horse",
-            "Shrimp"
-        ]
+        "examples": ["駅 : えき - Station", "駅前 : えきまえ - In front of the station"]
     },
     "料": {
         "strokes": 10,
@@ -5077,10 +4637,7 @@
             "りょう"
         ],
         "wk_readings_kun": [],
-        "wk_radicals": [
-            "Rice",
-            "Ladle"
-        ]
+        "examples": ["料金 : りょうきん - Fee", "資料 : しりょう - Materials"]
     },
     "映": {
         "strokes": 9,
@@ -5114,10 +4671,7 @@
             "!うつ",
             "!は"
         ],
-        "wk_radicals": [
-            "Sun",
-            "Center"
-        ]
+        "examples": ["映画 : えいが - Movie", "映像 : えいぞう - Image"]
     },
     "私": {
         "strokes": 7,
@@ -5148,10 +4702,7 @@
         "wk_readings_kun": [
             "!わたし"
         ],
-        "wk_radicals": [
-            "Grain",
-            "Private"
-        ]
+        "examples": ["私 : わたし - I (formal)", "私立 : しりつ - Private (school)"]
     },
     "帰": {
         "strokes": 10,
@@ -5185,12 +4736,7 @@
         "wk_readings_kun": [
             "かえ"
         ],
-        "wk_radicals": [
-            "Knife",
-            "Wolverine",
-            "Forehead",
-            "Towel"
-        ]
+        "examples": ["帰る : かえる - To return", "帰国 : きこく - Returning to one's country"]
     },
     "春": {
         "strokes": 9,
@@ -5218,10 +4764,7 @@
         "wk_readings_kun": [
             "はる"
         ],
-        "wk_radicals": [
-            "Spring",
-            "Sun"
-        ]
+        "examples": ["春 : はる - Spring", "春休み : はるやすみ - Spring break"]
     },
     "昼": {
         "strokes": 9,
@@ -5249,11 +4792,7 @@
         "wk_readings_kun": [
             "ひる"
         ],
-        "wk_radicals": [
-            "Shrimp",
-            "Sun",
-            "Ground"
-        ]
+        "examples": ["昼 : ひる - Afternoon", "昼食 : ちゅうしょく - Lunch"]
     },
     "秋": {
         "strokes": 9,
@@ -5280,10 +4819,7 @@
         "wk_readings_kun": [
             "あき"
         ],
-        "wk_radicals": [
-            "Grain",
-            "Fire"
-        ]
+        "examples": ["秋 : あき - Autumn", "秋風 : あきかぜ - Autumn wind"]
     },
     "計": {
         "strokes": 9,
@@ -5315,10 +4851,7 @@
         "wk_readings_kun": [
             "!はか"
         ],
-        "wk_radicals": [
-            "Say",
-            "Cross"
-        ]
+        "examples": ["計算 : けいさん - Calculation", "計画 : けいかく - Plan"]
     },
     "建": {
         "strokes": 9,
@@ -5350,10 +4883,7 @@
         "wk_readings_kun": [
             "!た"
         ],
-        "wk_radicals": [
-            "Yoga",
-            "Brush"
-        ]
+        "examples": ["建物 : たてもの - Building", "建設 : けんせつ - Construction"]
     },
     "英": {
         "strokes": 8,
@@ -5383,10 +4913,7 @@
             "えい"
         ],
         "wk_readings_kun": [],
-        "wk_radicals": [
-            "Flowers",
-            "Center"
-        ]
+        "examples": ["英語 : えいご - English", "英才 : えいさい - Prodigy"]
     },
     "飯": {
         "strokes": 12,
@@ -5415,10 +4942,7 @@
         "wk_readings_kun": [
             "!めし"
         ],
-        "wk_radicals": [
-            "Eat",
-            "Anti"
-        ]
+        "examples": ["ご飯 : ごはん - Rice/meal", "夕飯 : ゆうはん - Dinner"]
     },
     "曜": {
         "strokes": 18,
@@ -5442,11 +4966,7 @@
             "よう"
         ],
         "wk_readings_kun": [],
-        "wk_radicals": [
-            "Sun",
-            "Wolverine",
-            "Turkey"
-        ]
+        "examples": ["曜日 : ようび - Day of the week", "火曜日 : かようび - Tuesday"]
     },
     "品": {
         "strokes": 9,
@@ -5481,9 +5001,7 @@
         "wk_readings_kun": [
             "!しな"
         ],
-        "wk_radicals": [
-            "Products"
-        ]
+        "examples": ["商品 : しょうひん - Product", "品物 : しなもの - Goods"]
     },
     "急": {
         "strokes": 9,
@@ -5515,11 +5033,7 @@
         "wk_readings_kun": [
             "!いそ"
         ],
-        "wk_radicals": [
-            "Prison",
-            "Wolverine",
-            "Heart"
-        ]
+        "examples": ["急ぐ : いそぐ - To hurry", "急用 : きゅうよう - Urgent business"]
     },
     "真": {
         "strokes": 10,
@@ -5550,11 +5064,7 @@
         "wk_readings_kun": [
             "!ま"
         ],
-        "wk_radicals": [
-            "Pope",
-            "Ground",
-            "Fins"
-        ]
+        "examples": ["真実 : しんじつ - Truth", "真っ直ぐ : まっすぐ - Straight"]
     },
     "堂": {
         "strokes": 11,
@@ -5579,11 +5089,7 @@
             "どう"
         ],
         "wk_readings_kun": [],
-        "wk_radicals": [
-            "Viking",
-            "Mouth",
-            "Dirt"
-        ]
+        "examples": ["食堂 : しょくどう - Cafeteria", "礼堂 : れいどう - Hall"]
     },
     "試": {
         "strokes": 13,
@@ -5617,11 +5123,7 @@
             "!こころ",
             "!ため"
         ],
-        "wk_radicals": [
-            "Say",
-            "Ceremony",
-            "Construction"
-        ]
+        "examples": ["試す : ためす - To try", "試験 : しけん - Exam"]
     },
     "借": {
         "strokes": 10,
@@ -5649,10 +5151,7 @@
         "wk_readings_kun": [
             "!か"
         ],
-        "wk_radicals": [
-            "Leader",
-            "Long Ago"
-        ]
+        "examples": ["借りる : かりる - To borrow", "借金 : しゃっきん - Debt"]
     },
     "験": {
         "strokes": 18,
@@ -5686,10 +5185,7 @@
             "!ため",
             "!ためし"
         ],
-        "wk_radicals": [
-            "Horse",
-            "Squid"
-        ]
+        "examples": ["実験 : じっけん - Experiment", "経験 : けいけん - Experience"]
     },
     "質": {
         "strokes": 15,
@@ -5723,10 +5219,7 @@
             "^しち"
         ],
         "wk_readings_kun": [],
-        "wk_radicals": [
-            "Axe",
-            "Shellfish"
-        ]
+        "examples": ["質 : しつ - Quality", "質屋 : しちや - Pawn shop"]
     },
     "貸": {
         "strokes": 12,
@@ -5755,9 +5248,6 @@
         "wk_readings_kun": [
             "か"
         ],
-        "wk_radicals": [
-            "Substitute",
-            "Shellfish"
-        ]
+        "examples": ["貸す : かす - To lend", "貸し出し : かしだし - Lending"]
     }
 }
