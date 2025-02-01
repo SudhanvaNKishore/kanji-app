@@ -6,6 +6,7 @@ import n4Kanjis from "./components/data/jlpt_n4.json";
 import n3Kanjis from "./components/data/jlpt_n3.json";
 import n2Kanjis from "./components/data/jlpt_n2.json";
 import n1Kanjis from "./components/data/jlpt_n1.json";
+import { inject } from "@vercel/analytics";
 import "./App.css";
 
 function App() {
@@ -82,6 +83,11 @@ function App() {
       document.body.classList.remove('dark-mode');
     }
   }, [darkMode]);
+
+  // Inject analytics on component mount
+  useEffect(() => {
+    inject();
+  }, []);
 
   return (
     <div className={`App ${darkMode ? 'dark-mode' : ''}`}>
